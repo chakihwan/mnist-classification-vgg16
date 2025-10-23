@@ -55,7 +55,7 @@
 * **손실:** 학습 초반 급격히 감소 후 점차 안정적으로 수렴합니다. 학습 손실과 검증 손실 곡선이 유사하게 움직여 과적합이 없음을 보여줍니다.
 
 ### 성능 평가 (Confusion Matrix & Classification Report)
-(PDF 보고서의 Confusion Matrix와 Classification Report 이미지를 여기에 추가하세요.)
+<img width="576" height="305" alt="Image" src="https://github.com/user-attachments/assets/eb03ff2a-36a6-4127-98ca-2f2c9316a9c7" />
 
 * **Confusion Matrix:** 대각선 상의 값(정답)이 매우 높고, 비대각선 값(오답)이 매우 낮아 모델이 각 클래스를 매우 잘 구별함을 알 수 있습니다. 숫자 8을 2로 잘못 예측한 경우가 5건으로 가장 많았지만, 전체적으로 오분류는 매우 적습니다.
 * **Classification Report:** 모든 클래스(2, 4, 8)에서 Precision, Recall, F1-score가 0.99 또는 1.00으로 매우 높게 나타났습니다. 이는 모델이 각 숫자를 매우 정확하게 분류하고 있음을 의미합니다.
