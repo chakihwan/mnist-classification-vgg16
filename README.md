@@ -19,6 +19,7 @@
     * 클래스 라벨은 `class_mode='categorical'`을 통해 원-핫 인코딩 형식으로 변환했습니다.
 
 ** 데이터 분포 시각화:**
+
 <img width="548" height="368" alt="Image" src="https://github.com/user-attachments/assets/9dff2207-f56a-4ffe-b2ce-0cd2d146f7e6" />
 
 ## 🛠️ 모델 구조
