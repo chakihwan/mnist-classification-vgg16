@@ -18,8 +18,8 @@
     * 학습 데이터는 `validation_split=0.2` 옵션을 사용하여 80%는 학습에, 20%는 검증에 사용하도록 자동 분할했습니다.
     * 클래스 라벨은 `class_mode='categorical'`을 통해 원-핫 인코딩 형식으로 변환했습니다.
 
-**(선택) 데이터 분포 시각화:**
-(PDF 보고서의 클래스별 이미지 수, 학습/검증 데이터 수량 막대 그래프 이미지를 여기에 추가하세요.)
+** 데이터 분포 시각화:**
+<img width="548" height="368" alt="Image" src="https://github.com/user-attachments/assets/9dff2207-f56a-4ffe-b2ce-0cd2d146f7e6" />
 
 ## 🛠️ 모델 구조
 
@@ -63,7 +63,7 @@
 
 1.  **저장소 복제:**
     ```bash
-    git clone [https://github.com/your-username/mnist-classification-vgg16.git](https://github.com/your-username/mnist-classification-vgg16.git)
+    git clone [https://github.com/chakihwan/mnist-classification-vgg16.git](https://github.com/chakihwan/mnist-classification-vgg16.git)
     cd mnist-classification-vgg16
     ```
 2.  **데이터셋 준비:**
